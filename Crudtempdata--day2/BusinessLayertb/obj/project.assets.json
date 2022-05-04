@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DataAcessLayertb/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DomainLayertb": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAcessLayertb.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAcessLayertb.dll": {}
+        }
+      },
+      "DomainLayertb/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DomainLayertb.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainLayertb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataAcessLayertb/1.0.0": {
+      "type": "project",
+      "path": "../DataAcessLayertb/DataAcessLayertb.csproj",
+      "msbuildProject": "../DataAcessLayertb/DataAcessLayertb.csproj"
+    },
+    "DomainLayertb/1.0.0": {
+      "type": "project",
+      "path": "../DomainLayertb/DomainLayertb.csproj",
+      "msbuildProject": "../DomainLayertb/DomainLayertb.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DataAcessLayertb >= 1.0.0",
+      "DomainLayertb >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lmoun\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lmoun\\source\\repos\\Crudtempdata--day2\\BusinessLayertb\\BusinessLayertb.csproj",
+      "projectName": "BusinessLayertb",
+      "projectPath": "C:\\Users\\lmoun\\source\\repos\\Crudtempdata--day2\\BusinessLayertb\\BusinessLayertb.csproj",
+      "packagesPath": "C:\\Users\\lmoun\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lmoun\\source\\repos\\Crudtempdata--day2\\BusinessLayertb\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\lmoun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\lmoun\\source\\repos\\Crudtempdata--day2\\DataAcessLayertb\\DataAcessLayertb.csproj": {
+              "projectPath": "C:\\Users\\lmoun\\source\\repos\\Crudtempdata--day2\\DataAcessLayertb\\DataAcessLayertb.csproj"
+            },
+            "C:\\Users\\lmoun\\source\\repos\\Crudtempdata--day2\\DomainLayertb\\DomainLayertb.csproj": {
+              "projectPath": "C:\\Users\\lmoun\\source\\repos\\Crudtempdata--day2\\DomainLayertb\\DomainLayertb.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

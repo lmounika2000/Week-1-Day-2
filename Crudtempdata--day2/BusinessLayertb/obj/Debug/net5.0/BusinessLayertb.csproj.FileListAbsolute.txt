@@ -1,0 +1,17 @@
+C:\Users\lmoun\source\repos\BusinessLayertb\bin\Debug\net5.0\BusinessLayertb.deps.json
+C:\Users\lmoun\source\repos\BusinessLayertb\bin\Debug\net5.0\BusinessLayertb.dll
+C:\Users\lmoun\source\repos\BusinessLayertb\bin\Debug\net5.0\BusinessLayertb.pdb
+C:\Users\lmoun\source\repos\BusinessLayertb\bin\Debug\net5.0\DataAcessLayertb.dll
+C:\Users\lmoun\source\repos\BusinessLayertb\bin\Debug\net5.0\DomainLayertb.dll
+C:\Users\lmoun\source\repos\BusinessLayertb\bin\Debug\net5.0\DataAcessLayertb.pdb
+C:\Users\lmoun\source\repos\BusinessLayertb\bin\Debug\net5.0\DomainLayertb.pdb
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\BusinessLayertb.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\BusinessLayertb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\BusinessLayertb.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\BusinessLayertb.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\BusinessLayertb.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\BusinessLayertb.csproj.CopyComplete
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\BusinessLayertb.dll
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\refint\BusinessLayertb.dll
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\BusinessLayertb.pdb
+C:\Users\lmoun\source\repos\BusinessLayertb\obj\Debug\net5.0\ref\BusinessLayertb.dll

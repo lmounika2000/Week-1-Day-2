@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DataAcessLayertb/1.0.0": {
+        "dependencies": {
+          "DomainLayertb": "1.0.0"
+        },
+        "runtime": {
+          "DataAcessLayertb.dll": {}
+        }
+      },
+      "DomainLayertb/1.0.0": {
+        "runtime": {
+          "DomainLayertb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataAcessLayertb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DomainLayertb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

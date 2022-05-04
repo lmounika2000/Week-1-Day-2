@@ -1,0 +1,12 @@
+C:\Users\lmoun\source\repos\DomainLayertb\bin\Debug\net5.0\DomainLayertb.deps.json
+C:\Users\lmoun\source\repos\DomainLayertb\bin\Debug\net5.0\DomainLayertb.dll
+C:\Users\lmoun\source\repos\DomainLayertb\bin\Debug\net5.0\DomainLayertb.pdb
+C:\Users\lmoun\source\repos\DomainLayertb\obj\Debug\net5.0\DomainLayertb.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\DomainLayertb\obj\Debug\net5.0\DomainLayertb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\DomainLayertb\obj\Debug\net5.0\DomainLayertb.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\DomainLayertb\obj\Debug\net5.0\DomainLayertb.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\DomainLayertb\obj\Debug\net5.0\DomainLayertb.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\DomainLayertb\obj\Debug\net5.0\DomainLayertb.dll
+C:\Users\lmoun\source\repos\DomainLayertb\obj\Debug\net5.0\refint\DomainLayertb.dll
+C:\Users\lmoun\source\repos\DomainLayertb\obj\Debug\net5.0\DomainLayertb.pdb
+C:\Users\lmoun\source\repos\DomainLayertb\obj\Debug\net5.0\ref\DomainLayertb.dll

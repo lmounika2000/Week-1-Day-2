@@ -1,0 +1,15 @@
+C:\Users\lmoun\source\repos\DataAcessLayertb\bin\Debug\net5.0\DataAcessLayertb.deps.json
+C:\Users\lmoun\source\repos\DataAcessLayertb\bin\Debug\net5.0\DataAcessLayertb.dll
+C:\Users\lmoun\source\repos\DataAcessLayertb\bin\Debug\net5.0\DataAcessLayertb.pdb
+C:\Users\lmoun\source\repos\DataAcessLayertb\bin\Debug\net5.0\DomainLayertb.dll
+C:\Users\lmoun\source\repos\DataAcessLayertb\bin\Debug\net5.0\DomainLayertb.pdb
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\DataAcessLayertb.csproj.AssemblyReference.cache
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\DataAcessLayertb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\DataAcessLayertb.AssemblyInfoInputs.cache
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\DataAcessLayertb.AssemblyInfo.cs
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\DataAcessLayertb.csproj.CoreCompileInputs.cache
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\DataAcessLayertb.csproj.CopyComplete
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\DataAcessLayertb.dll
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\refint\DataAcessLayertb.dll
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\DataAcessLayertb.pdb
+C:\Users\lmoun\source\repos\DataAcessLayertb\obj\Debug\net5.0\ref\DataAcessLayertb.dll
